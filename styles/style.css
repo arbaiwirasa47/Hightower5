@@ -284,8 +284,8 @@ a:hover {
 }
 
 .button.fb-blue {
- background-color: white;
- color: rgb(0, 100, 224);
+ background-color: rgb(0, 100, 224);
+ color: white;
  font-weight: 700;
 }
 
